@@ -11,7 +11,7 @@ This is my portfolio of mobile development projects that I have done over the la
   
 ## Projects
 
-- [TVSupplier](https://github.com/garygause/portfolio-projects/tvsupplier):  mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs
+- [TVSupplier](https://github.com/garygause/portfolio-projects/tree/master/tvsupplier):  mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs
 
 
 
